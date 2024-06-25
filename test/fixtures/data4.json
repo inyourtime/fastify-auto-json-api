@@ -1,0 +1,82 @@
+[
+  {
+    "id": "174382aa-64d4-4c99-b0e4-b4689c36b11a",
+    "name": "Jodi Moore",
+    "email": "stevensjames@gmail.com",
+    "address": {
+      "street": "1692 Larry Stream",
+      "city": "Port Erik",
+      "country": "Guinea-Bissau"
+    },
+    "phone": "060-335-8955",
+    "website": "http://atkins.com/",
+    "company": {
+      "name": "Johnson-Ryan",
+      "catchPhrase": "Integrated reciprocal projection"
+    }
+  },
+  {
+    "id": "db5f7b3a-563a-4c84-b9de-35514416b0ae",
+    "name": "Kerry Johns MD",
+    "email": "lauren78@yahoo.com",
+    "address": {
+      "street": "14802 Sampson Ports Suite 760",
+      "city": "Theresashire",
+      "country": "Suriname"
+    },
+    "phone": "138.880.2307x66416",
+    "website": "http://silva.com/",
+    "company": {
+      "name": "Ortega, Olson and Williams",
+      "catchPhrase": "Business-focused dedicated customer loyalty"
+    }
+  },
+  {
+    "id": "75d3ce20-3660-4eea-b6df-59788fb52884",
+    "name": "John Boyd",
+    "email": "darlene13@yahoo.com",
+    "address": {
+      "street": "28638 Bradshaw Crossing Suite 509",
+      "city": "Lake Elijah",
+      "country": "Korea"
+    },
+    "phone": "3960434607",
+    "website": "https://wallace.com/",
+    "company": {
+      "name": "Colon, Tanner and Lewis",
+      "catchPhrase": "Switchable encompassing analyzer"
+    }
+  },
+  {
+    "id": "f56d18ba-0818-4090-8d72-d862e781bfcf",
+    "name": "Jordan Christian",
+    "email": "james61@yahoo.com",
+    "address": {
+      "street": "17141 Mitchell Glen Apt. 144",
+      "city": "Johnsonstad",
+      "country": "Georgia"
+    },
+    "phone": "(102)445-4149x13529",
+    "website": "http://ali.info/",
+    "company": {
+      "name": "Beard Inc",
+      "catchPhrase": "Robust methodical capability"
+    }
+  },
+  {
+    "id": "c3d7992a-20ed-48d6-b819-24fc12a81b51",
+    "name": "Michelle Mccormick",
+    "email": "hreyes@rodriguez.com",
+    "address": {
+      "street": "458 Douglas Spur",
+      "city": "North Angelaside",
+      "country": "Palestinian Territory"
+    },
+    "phone": "696-462-2995",
+    "website": "https://brown.com/",
+    "company": {
+      "name": "Wilson-Dorsey",
+      "catchPhrase": "Secured non-volatile project"
+    }
+  }
+]

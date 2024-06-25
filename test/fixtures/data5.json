@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ed58729c-dbc7-4ce0-9ca5-e11d3127af01",
+    "name": "Brittney Moore",
+    "email": "davidrogers@yahoo.com",
+    "address": {
+      "street": "7619 Wesley Key",
+      "city": "Williamsland",
+      "country": "Fiji"
+    },
+    "phone": "+1-545-855-5655x0350",
+    "website": "http://wheeler-burch.com/",
+    "company": {
+      "name": "Campos and Sons",
+      "catchPhrase": "Balanced system-worthy alliance"
+    }
+  },
+  {
+    "id": "b616392c-b03e-4fb6-bad6-7c6a1ae2f644",
+    "name": "Lisa Gonzalez",
+    "email": "richardrodriguez@yahoo.com",
+    "address": {
+      "street": "3087 Gutierrez Roads Suite 111",
+      "city": "Gentryview",
+      "country": "Norfolk Island"
+    },
+    "phone": "(751)410-8015",
+    "website": "https://www.clark.info/",
+    "company": {
+      "name": "Kim Ltd",
+      "catchPhrase": "Face-to-face methodical interface"
+    }
+  },
+  {
+    "id": "3cdad066-dc74-4ef8-9f02-b4587a01a733",
+    "name": "Cynthia Graham",
+    "email": "heather30@quinn-goodman.com",
+    "address": {
+      "street": "327 Freeman Pine",
+      "city": "Kennethtown",
+      "country": "Libyan Arab Jamahiriya"
+    },
+    "phone": "+1-233-563-2446",
+    "website": "http://caldwell.com/",
+    "company": {
+      "name": "Cox, Gallegos and Smith",
+      "catchPhrase": "Balanced analyzing system engine"
+    }
+  },
+  {
+    "id": "869ed39c-42fc-425f-ae29-321e181406de",
+    "name": "Dominique Ballard",
+    "email": "jenniferrobertson@bradford-olsen.com",
+    "address": {
+      "street": "381 Katherine Square",
+      "city": "East Sandra",
+      "country": "Djibouti"
+    },
+    "phone": "206-250-5806x65801",
+    "website": "https://gonzales.com/",
+    "company": {
+      "name": "Huang, Myers and Lewis",
+      "catchPhrase": "Intuitive content-based process improvement"
+    }
+  },
+  {
+    "id": "bd2ed10f-5d19-4140-a138-03ec5103b8c8",
+    "name": "Cynthia Foster",
+    "email": "cobbdawn@hotmail.com",
+    "address": {
+      "street": "189 Wendy Glens Suite 606",
+      "city": "North Victoriastad",
+      "country": "Denmark"
+    },
+    "phone": "001-352-581-5676",
+    "website": "https://pennington.info/",
+    "company": {
+      "name": "Hurst, Washington and Douglas",
+      "catchPhrase": "Diverse multimedia capability"
+    }
+  }
+]

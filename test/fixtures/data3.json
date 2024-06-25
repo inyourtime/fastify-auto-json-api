@@ -1,0 +1,16 @@
+{
+  "id": "c5ed0a65-5a7e-4320-b449-113a44124aeb",
+  "name": "Gary Ferguson",
+  "email": "genehoward@gmail.com",
+  "address": {
+    "street": "85824 Blake Square Suite 146",
+    "city": "Michaelberg",
+    "country": "South Georgia and the South Sandwich Islands"
+  },
+  "phone": "001-859-306-5083",
+  "website": "http://www.wilson.com/",
+  "company": {
+    "name": "Cox and Sons",
+    "catchPhrase": "Universal radical infrastructure"
+  }
+}

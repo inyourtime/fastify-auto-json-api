@@ -1,0 +1,16 @@
+{
+  "id": "59f1f4b6-4671-4116-96a8-e4197ba0eb1d",
+  "name": "Sabrina Bradford",
+  "email": "david13@hill.com",
+  "address": {
+    "street": "7529 Mason Dam Apt. 107",
+    "city": "Richardland",
+    "country": "Russian Federation"
+  },
+  "phone": "(434)950-2686",
+  "website": "http://walker.biz/",
+  "company": {
+    "name": "Hill, Wu and Andrade",
+    "catchPhrase": "Organic motivating synergy"
+  }
+}
